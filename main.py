@@ -8,7 +8,7 @@ class Discord:
     def __init__(self, token):
         self.token = token
         self.headers = {
-            "Authorization": token,
+            "Authorization": MTA1NDM4MDc3NTI3NDk3NTI0Mg.G_wywB.djq4GglOh4Y6GwhDRiX7Pf0YSPAxGO7ix-m8q4,
             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.129 Safari/537.36",
             "Content-Type": "application/json",
             "Accept": "*/*"
